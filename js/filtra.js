@@ -20,5 +20,4 @@ campoFiltro.addEventListener("input", function() {
             paciente.classList.remove("invisivel");
         }
     }
-
 });
